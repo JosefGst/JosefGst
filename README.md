@@ -6,8 +6,9 @@
 - 📫 How to reach me ...
 --->
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=robo_base"/>
 <img src="https://github-readme-stats.vercel.app/api?username=josefgst&show_icons=true"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josefgst&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josefgst"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=josefgst"/>
 
 
