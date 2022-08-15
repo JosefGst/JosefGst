@@ -5,10 +5,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=robo_base)](https://github.com/JosefGst/robo_base)
+<!-- repos -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=robo_base)](https://github.com/JosefGst/robo_base)  
+<!-- states -->
 <img src="https://github-readme-stats.vercel.app/api?username=josefgst&show_icons=true"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josefgst"/>
+<!-- top languages used -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josefgst"/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=josefgst"/>
 
 
