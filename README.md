@@ -8,6 +8,8 @@
 <!-- repos -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=urdf_basic_shapes)](https://github.com/JosefGst/urdf_basic_shapes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=a21_sonar)](https://github.com/JosefGst/a21_sonar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=rmdx_driver)](https://github.com/JosefGst/rmdx_driver)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=zlac_ros2)](https://github.com/JosefGst/zlac_ros2)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=new_simple_robot)](https://github.com/JosefGst/new_simple_robot) -->
 <!-- states -->
 <img src="https://github-readme-stats.vercel.app/api?username=josefgst&show_icons=true"/>
