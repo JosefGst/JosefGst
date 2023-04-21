@@ -7,7 +7,7 @@ Want to learn more about:
 - [moveit](https://ros-planning.github.io/moveit_tutorials/)
 
 # Projects:
-## Controlling multiple robots 🤖
+## Controlling multiple robots 🤖 (2022)
 at [LSCM](https://www.lscm.hk/eng/) and sharing their location with a modified costmap layer to better avoid each other.  
 ![](https://github.com/JosefGst/lscm_deliverybot/blob/main/images/split_screen_delivery.gif)
 
