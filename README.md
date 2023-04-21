@@ -1,10 +1,10 @@
 
-# 👋 Hi, I’m Josef
-I make robots move by themselves with ROS at [LSCM](https://www.lscm.hk/eng/) to perform delivery tasks. 
+# 👋 Hi, this is Josef!
+I make robots move by themselves with ROS to perform delivery tasks. 
 
 # Projects:
 ## Controlling multiple robots 🤖
-and sharing their location with a modified costmap layer to better avoid each other.  
+at [LSCM](https://www.lscm.hk/eng/) and sharing their location with a modified costmap layer to better avoid each other.  
 ![](https://github.com/JosefGst/lscm_deliverybot/blob/main/images/split_screen_delivery.gif)
 
 
@@ -15,7 +15,7 @@ and sharing their location with a modified costmap layer to better avoid each ot
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=zlac_ros2)](https://github.com/JosefGst/zlac_ros2) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=new_simple_robot)](https://github.com/JosefGst/new_simple_robot) -->
 <!-- states -->
-<img src="https://github-readme-stats.vercel.app/api?username=josefgst&show_icons=true"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=josefgst&show_icons=true"/> -->
 <!-- top languages used -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josefgst"/> -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=josefgst"/> -->
