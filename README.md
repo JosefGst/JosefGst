@@ -1,10 +1,13 @@
-<!---
-- 👋 Hi, I’m Josef
-- 👀 I’m interested in Robotics and Microcontroller
-- 🌱 I’m currently learning ML and Docker
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+
+# 👋 Hi, I’m Josef
+I make robots move by themselves with ROS at [LSCM](https://www.lscm.hk/eng/) to perform delivery tasks. 
+
+# Projects:
+## Controlling multiple robots 🤖
+and sharing their location with a modified costmap layer to better avoid each other.  
+![](https://github.com/JosefGst/lscm_deliverybot/blob/main/images/split_screen_delivery.gif)
+
+
 <!-- repos -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=urdf_basic_shapes)](https://github.com/JosefGst/urdf_basic_shapes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=a21_sonar)](https://github.com/JosefGst/a21_sonar)
@@ -14,7 +17,7 @@
 <!-- states -->
 <img src="https://github-readme-stats.vercel.app/api?username=josefgst&show_icons=true"/>
 <!-- top languages used -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josefgst"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josefgst"/> -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=josefgst"/> -->
 
 
