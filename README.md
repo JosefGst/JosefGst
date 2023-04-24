@@ -1,14 +1,14 @@
 
-# 👋 Hi, this is Josef!
+# 👋 Hi!
 I make robots move by themselves with ROS to perform delivery tasks.  
-Want to learn more about:
+Things I want to learn more about:
 - [ROS 2](https://docs.ros.org/en/humble/index.html)
 - [openrmf](https://github.com/open-rmf)
 - [moveit](https://ros-planning.github.io/moveit_tutorials/)
 
 # Projects:
-## Controlling multiple robots 🤖 (2022)
-at [LSCM](https://www.lscm.hk/eng/) and sharing their location with a modified costmap layer to better avoid each other.  
+## Controlling multiple robots 🤖 (2022 [LSCM](https://www.lscm.hk/eng/))
+and sharing their location with a modified costmap layer to better avoid each other.  
 ![](https://github.com/JosefGst/lscm_deliverybot/blob/main/images/split_screen_delivery.gif)
 
 
