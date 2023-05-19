@@ -25,6 +25,9 @@ and sharing their location with a modified costmap layer to better avoid each ot
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=josefgst"/> -->
 
 
+# my first footsteps contributing to open source:
+https://github.com/StoglRobotics/ros_team_workspace/pull/109
+
 
 <!---
 JosefGst/JosefGst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
