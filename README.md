@@ -9,6 +9,7 @@ Things I want to learn more about:
 # Projects:
 ## Controlling multiple robots 🤖 (2022 [LSCM](https://www.lscm.hk/eng/))
 and sharing their location with a modified costmap layer to better avoid each other.  
+https://github.com/JosefGst/lscm_deliverybot
 ![](https://github.com/JosefGst/lscm_deliverybot/blob/humble/images/split_screen_delivery.gif)
 
 
