@@ -8,7 +8,6 @@ Things I want to learn more about:
 # Projects:
 ## Controlling multiple robots 🤖 (2022 [LSCM](https://www.lscm.hk/eng/))
 and sharing their location with a modified costmap layer to better avoid each other.  
-https://github.com/JosefGst/lscm_deliverybot/tree/robot3  
 ![](https://github.com/JosefGst/lscm_deliverybot/blob/humble/images/split_screen_delivery.gif)
 
 
@@ -16,7 +15,7 @@ https://github.com/JosefGst/lscm_deliverybot/tree/robot3
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=urdf_basic_shapes)](https://github.com/JosefGst/urdf_basic_shapes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=a21_sonar)](https://github.com/JosefGst/a21_sonar)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=rmdx_driver)](https://github.com/JosefGst/rmdx_driver)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=lscm_deliverybot)](https://github.com/JosefGst/lscm_deliverybot)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=lscm_deliverybot)](https://github.com/JosefGst/lscm_deliverybot) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=zlac_ros2)](https://github.com/JosefGst/zlac_ros2) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=new_simple_robot)](https://github.com/JosefGst/new_simple_robot) -->
 <!-- states -->
