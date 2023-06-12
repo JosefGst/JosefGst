@@ -26,7 +26,8 @@ and sharing their location with a modified costmap layer to better avoid each ot
 
 
 # my first footsteps contributing to open source:
-https://github.com/StoglRobotics/ros_team_workspace/pull/109
+- https://github.com/StoglRobotics/ros_team_workspace/pull/109  
+- https://github.com/ElettraSciComp/witmotion_IMU_ros/pull/25
 
 
 <!---
