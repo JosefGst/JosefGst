@@ -1,9 +1,7 @@
 
 # 👋 Hi!
-I make robots move by themselves with ROS to perform delivery tasks.  
-Things I want to learn more about:
-- [ ] [openrmf](https://github.com/open-rmf)
-- [ ] [moveit](https://ros-planning.github.io/moveit_tutorials/)
+I make robots move with ROS/ROS 2.
+
 
 # Projects:
 ## Controlling multiple robots 🤖 (2022 [LSCM](https://www.lscm.hk/eng/))
