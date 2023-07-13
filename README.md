@@ -13,9 +13,9 @@ and sharing their location with a modified costmap layer to better avoid each ot
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=urdf_basic_shapes)](https://github.com/JosefGst/urdf_basic_shapes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=a21_sonar)](https://github.com/JosefGst/a21_sonar)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=rmdx_driver)](https://github.com/JosefGst/rmdx_driver)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=zlac_ros2)](https://github.com/JosefGst/zlac_ros2)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=lscm_deliverybot)](https://github.com/JosefGst/lscm_deliverybot) -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=zlac_ros2)](https://github.com/JosefGst/zlac_ros2) -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=new_simple_robot)](https://github.com/JosefGst/new_simple_robot) -->
+
 <!-- states -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=josefgst&show_icons=true"/> -->
 <!-- top languages used -->
@@ -23,7 +23,7 @@ and sharing their location with a modified costmap layer to better avoid each ot
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=josefgst"/> -->
 
 
-# my first footsteps contributing to open source:
+# my first footsteps into open source:
 - https://github.com/StoglRobotics/ros_team_workspace/pull/109  
 - https://github.com/ElettraSciComp/witmotion_IMU_ros/pull/25
 
