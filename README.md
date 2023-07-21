@@ -14,6 +14,7 @@ and sharing their location with a modified costmap layer to better avoid each ot
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=a21_sonar)](https://github.com/JosefGst/a21_sonar)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=rmdx_driver)](https://github.com/JosefGst/rmdx_driver)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=zlac_ros2)](https://github.com/JosefGst/zlac_ros2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=detection2landmark)](https://github.com/JosefGst/detection2landmark)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=lscm_deliverybot)](https://github.com/JosefGst/lscm_deliverybot) -->
 
 <!-- states -->
