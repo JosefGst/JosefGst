@@ -23,6 +23,7 @@ I make robots move with ROS/ROS 2.
 # my first footsteps into open source:
 - https://github.com/StoglRobotics/ros_team_workspace/pull/109  
 - https://github.com/ElettraSciComp/witmotion_IMU_ros/pull/25
+- https://github.com/ros-perception/laser_filters/pull/186
 
 
 <!---
