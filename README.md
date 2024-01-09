@@ -25,7 +25,7 @@ I play with mobile robots in ROS/ROS 2.
 <!-- top languages used -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josefgst"/> -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=josefgst"/> -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosefGst&theme=transparent)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosefGst&theme=transparent) -->
 
 
 # my first footsteps into open source:
