@@ -8,7 +8,7 @@ I play with mobile robots in ROS/ROS 2.
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-![](https://github.com/JosefGst/lscm_deliverybot/blob/humble/images/split_screen_delivery.gif)
+![](https://github.com/JosefGst/JosefGst.github.io/blob/main/images/split_screen_delivery.gif)
 
 
 <!-- repos -->
