@@ -1,6 +1,6 @@
 
 # 👋 Hallo!
-I play with mobile robots in ROS/ROS 2.
+🤖 I play with mobile robots in ROS/ROS 2. 
 
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,7 +28,7 @@ I play with mobile robots in ROS/ROS 2.
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosefGst&theme=transparent) -->
 
 
-# my first footsteps into open source:
+# 📜 my first footsteps into open source:
 - [ros_team_workspace](https://github.com/StoglRobotics/ros_team_workspace/pull/109)
 - [witmotion_IMU](https://github.com/ElettraSciComp/witmotion_IMU_ros/pull/25)
 - [laser_filters](https://github.com/ros-perception/laser_filters/pull/186)
