@@ -14,8 +14,8 @@
 
 ## 3D Modeling:
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="solidworks" height="35"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Fusion-360-2023-lockup-Blk-OL-ADSK-No-Year-Stacked.png" alt="fuison360" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="solidworks" height="35"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" height="35"/>
 </p>
 
