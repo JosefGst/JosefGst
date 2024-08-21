@@ -23,9 +23,9 @@
 
 
 <!-- repos -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=urdf_basic_shapes)](https://github.com/JosefGst/urdf_basic_shapes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=detection2landmark)](https://github.com/JosefGst/detection2landmark)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=template_sub_pub)](https://github.com/JosefGst/template_sub_pub)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=rmdx_driver)](https://github.com/JosefGst/rmdx_driver)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=ros2_mpu6050_driver)](https://github.com/JosefGst/ros2_mpu6050_driver)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=zlac_ros2)](https://github.com/JosefGst/zlac_ros2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=udev_tools)](https://github.com/JosefGst/udev_tools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=lingao_ros2)](https://github.com/JosefGst/lingao_ros2)
