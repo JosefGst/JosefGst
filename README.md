@@ -5,20 +5,20 @@
 Have a look at some of my side [projects](https://josefgst.github.io/blog/).
 ## Programming:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ros" height="40"/>
-  <img src="https://www.neobotix-roboter.de/fileadmin/_processed_/a/b/csm_ROS2_de25589e21.png" alt="ros2" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Arduino_Logo_Registered.svg" alt="arduino" height="40"/>      
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" alt="docker" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="40"/>
+  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ros" width="120"/>
+  <img src="https://www.neobotix-roboter.de/fileadmin/_processed_/a/b/csm_ROS2_de25589e21.png" alt="ros2" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Arduino_Logo_Registered.svg" alt="arduino" width="40"/>      
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" alt="docker" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"/>
 </p>
 
 ## 3D Modeling:
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Fusion-360-2023-lockup-Blk-OL-ADSK-No-Year-Stacked.png" alt="fuison360" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="solidworks" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Fusion-360-2023-lockup-Blk-OL-ADSK-No-Year-Stacked.png" alt="fuison360" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="solidworks" width="160"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40"/>
 </p>
 
 ![](https://github.com/JosefGst/JosefGst.github.io/blob/main/images/split_screen_delivery.gif)
