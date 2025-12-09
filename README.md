@@ -25,7 +25,7 @@ Have a look at some of my side [projects](https://josefgst.github.io/blog/).
 <!-- states -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=josefgst&show_icons=true"/> -->
 <!-- top languages used -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josefgst"/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josefgst"/> -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=josefgst"/> -->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosefGst&theme=transparent) -->
 
