@@ -21,22 +21,11 @@ Have a look at some of my side [projects](https://josefgst.github.io/blog/).
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40"/>
 </p>
 
-![](https://github.com/JosefGst/JosefGst.github.io/blob/main/images/split_screen_delivery.gif)
-
-
-<!-- repos -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=detection2landmark)](https://github.com/JosefGst/detection2landmark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=apriltag_docking_ros)](https://github.com/JosefGst/apriltag_docking_ros)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=ros2_mpu6050_driver)](https://github.com/JosefGst/ros2_mpu6050_driver)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=zlac_ros2)](https://github.com/JosefGst/zlac_ros2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=udev_tools)](https://github.com/JosefGst/udev_tools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=lingao_ros2)](https://github.com/JosefGst/lingao_ros2)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josefgst&repo=lscm_deliverybot)](https://github.com/JosefGst/lscm_deliverybot) -->
 
 <!-- states -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=josefgst&show_icons=true"/> -->
 <!-- top languages used -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josefgst"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josefgst"/> -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=josefgst"/> -->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosefGst&theme=transparent) -->
 
