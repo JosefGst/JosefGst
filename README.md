@@ -2,11 +2,13 @@
 # 👋 Hallo!
 🤖 I play with mobile robots in ROS/ROS 2. 
 
-Have a look at some of my side [projects](https://josefgst.github.io/blog/).
+Have a look at some of my [![Static Badge](https://img.shields.io/badge/side-projects-black?logo=github)](https://josefgst.github.io/blog/).
+
+
 ## Programming:
 <p align="left">
   <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ros" width="120"/>
-  <img src="https://www.neobotix-roboter.de/fileadmin/_processed_/a/b/csm_ROS2_de25589e21.png" alt="ros2" width="60"/>
+  <!-- <img src="https://www.neobotix-roboter.de/fileadmin/_processed_/a/b/csm_ROS2_de25589e21.png" alt="ros2" width="60"/> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Arduino_Logo_Registered.svg" alt="arduino" width="40"/>      
